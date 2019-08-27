@@ -5,4 +5,4 @@ function bandSignUp(bandName) {
   return bandNumber + " " + bandName;
 }
 console.log(bandSignUp("Beatles"));
-console.log(bandSignUp("Doors"));
+console.log(bandSignUp("Underdogs"));
